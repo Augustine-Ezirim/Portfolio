@@ -1,0 +1,19 @@
+title: Augustine Ezirim
+tagline: Analytics-focused professional with experience in ML modeling
+
+theme: jekyll-theme-minimal
+
+author:
+  name: Augustine Ezirim
+  email: aezirim@falcon.bentley.edu
+
+show_downloads: false
+
+plugins:
+  - jekyll-seo-tag
+
+social_links:
+  linkedin: augustine-ezirim
+  github: augustine-ezirim
+
+markdown: kramdown
