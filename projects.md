@@ -1,25 +1,29 @@
-TO BE UPDATED...
 # Projects
 
+## Contextly – Text Classification & NLP Analysis
+
+Focus: Machine learning, NLP, applied analytics
+Developed a text classification pipeline to analyze contextual sentiment and message patterns. Performed data preprocessing, feature engineering, and model evaluation to extract actionable insights from unstructured text data.
+
+GitHub repo:
+https://github.com/Augustine-Ezirim/Project---Contextly
+
+---
+
 ## Student Success Prediction
-**Focus:** Predictive analytics, ML modeling  
-Built logistic regression and decision tree models to predict student outcomes. Evaluated performance using ROC/AUC and interpreted key predictors.
 
-➡️ GitHub repo: https://github.com/augustine-ezirim/student-success-ml
+Focus: Predictive analytics, machine learning
+Built logistic regression and decision tree models to predict student pass/fail outcomes. Evaluated model performance using ROC/AUC and confusion matrices, and interpreted key academic and behavioral predictors driving student success.
 
----
-
-## Credit Risk Scoring with SQL
-**Focus:** Analytics, SQL, data modeling  
-Designed a relational database and used SQL queries to answer business questions and compute FICO-style borrower scores.
-
-➡️ GitHub repo: https://github.com/augustine-ezirim/fico-score-sql
+GitHub repo:
+https://github.com/Augustine-Ezirim/Project-student-success-prediction
 
 ---
 
-## Performance Analytics Dashboard
-**Focus:** Business analytics, BI  
-Developed Excel models and Power BI dashboards to analyze performance metrics and support discrepancy investigation.
+## Interest Rate Analysis
 
-➡️ GitHub repo: https://github.com/augustine-ezirim/performance-dashboard
+Focus: Data science, time series analysis
+Analyzed interest rate trends using historical data to identify patterns and economic implications. Applied statistical analysis and visualization techniques to support financial interpretation and data-driven insights.
 
+GitHub repo:
+https://github.com/Augustine-Ezirim/Projecct---Interest-rate-analysis
